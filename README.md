@@ -1,3 +1,4 @@
+
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
 **AIM:**
@@ -24,6 +25,22 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="720" height="1280" alt="1 d" src="https://github.com/user-attachments/assets/44a8d895-b7bd-44f3-927a-5f67a753c26c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,6 +65,18 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+ 
+ **CALCULATION:**
+ 
+ <img width="804" height="1280" alt="image" src="https://github.com/user-attachments/assets/9666e785-09e5-4524-8d91-c985a74c56f6" />
+
+ **MARK SPLIT-UP:**
+ 
+ <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/6705ddeb-b704-455b-bbb8-0390b778b814" />
+
+
+
+ 
 
 **RESULT:**
 
